@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Todd de Quincey"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile-small.png"
   bio    : "Yes, this site is plain. This is by design. We have enough unnecessary complexity in the world. I prefer simplicity, minimalism and functionality. This site is home to where I question the world, write about ideas and occasionally let my mind wander on philosophical thoughts."
   links:
     # - label: "Website"
