@@ -28,8 +28,7 @@ repository: "toddy86/blog"
 comments:
   provider: "utterances"
   utterances:
-    repo: "toddy86/blog"
-    theme: "github-dark" # "github-dark"
+    theme: "github-dark"
     issue_term: "pathname"
 minimal_mistakes_skin: dark
 search: false
