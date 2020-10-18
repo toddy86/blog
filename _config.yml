@@ -25,6 +25,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 # twitter_username: username
 github_username: toddy86
 repository: "toddy86/blog"
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-dark" # "github-dark"
+    issue_term: "pathname"
 minimal_mistakes_skin: dark
 search: false
 
@@ -117,10 +122,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-
-comments:
-  provider: "utterances"
-  utterances:
-    theme: "github-dark" # "github-dark"
-    issue_term: "pathname"
